@@ -19,7 +19,7 @@ ignored_dirs:
 - Frameworks
 - Submodules
 - External
-repo_name: test-onbonbon
+repo_name: onbonbon
 ...
 
 # -- 
