@@ -6,7 +6,6 @@
 # This YAML file configures this repo for Gemba. Push changes to this file, and
 # your designers will use your updated config next time they launch Gemba.
 
----
 remote_url: https://github.com/yangmeyer/test-onbonbon
 asset_extensions:
 - jpeg
@@ -20,7 +19,6 @@ ignored_dirs:
 - Submodules
 - External
 repo_name: onbonbon
-...
 
 # -- 
 # Learn more at http://gemba.io or contact support@gemba.io
